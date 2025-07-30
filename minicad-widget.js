@@ -232,7 +232,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // === Floating Button ===
   const cadBtn = document.createElement("button");
   cadBtn.id = "open-cad-widget";
-  cadBtn.innerHTML = `<i class="fas fa-house-user"></i>`;
+  cadBtn.innerHTML = `<i class="bi bi-house-door-fill"></i>`;
   Object.assign(cadBtn.style, {
     position: "fixed",
     top: "50%",
