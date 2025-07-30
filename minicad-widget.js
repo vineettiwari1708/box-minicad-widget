@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // === Floating Button (center-right) ===
   const cadBtn = document.createElement("button");
   cadBtn.id = "open-cad-widget";
-  cadBtn.innerHTML = `<i class="fas fa-house-chimney-window"></i>`;
+  cadBtn.innerHTML = `<i class="fas fa-house-user"></i>`;
   Object.assign(cadBtn.style, {
     position: "fixed",
     top: "50%",
