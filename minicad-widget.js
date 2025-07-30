@@ -125,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function () {
     width: "50px",
     height: "50px",
     borderRadius: "10px 0 0 10px",
-    backgroundColor: "#343a40",
+    backgroundColor: "#0065c9",
     color: "#fff",
     border: "none",
     fontSize: "22px",
